@@ -27,11 +27,10 @@ Link tham khảo: https://betacinemas.vn/home.htm
 **DEMO CHỨC NĂNG ĐẶT VÉ VNPAY**
 
 * * *
+![image](https://github.com/user-attachments/assets/db226713-5036-4c69-a748-559f22ab6242)
+![image](https://github.com/user-attachments/assets/f44478f3-d369-4d39-ae61-6ad59902f9c6)
+![image](https://github.com/user-attachments/assets/0e4664fa-96c1-471b-81c1-a84e2b0397dc)
+![image](https://github.com/user-attachments/assets/7098eee8-20be-4f5b-a9cb-73be9af5a541)
+![image](https://github.com/user-attachments/assets/dafdb0a3-4077-41a4-9403-a9735a96198d)
+![image](https://github.com/user-attachments/assets/59f051f7-2efa-49b8-a642-4114bbb24611)
 
-  
-![97ab9843fcbee40aecc0f9460d8bafaf.png](:/90378c654c744f918e695c050f36c419)  
-![28beeba744c79d31d62744d5fd2995bb.png](:/47d3de00fb18458cb7451805069e5e6d)  
-![d3f83ce2837c7f1c7b5436d12c6067a2.png](:/df1b0946356748f89cfb49af356fb939)  
-![d0d96c07a35a4ce5a8b8565e8232e834.png](:/4f5661dc7a0947929bd2e9fba73894bd)  
-![ab81951364f36a1a63126cc2b611f0be.png](:/3167f68a3ac745cab3921a3a94c165eb)  
-![9ba11e034c0fd6a107fb2ccdf8c0bea7.png](:/41b8babfd65e4d8883a1d3da6c191f43)
