@@ -85,7 +85,7 @@ public class PaymentController {
         String bankCode = "NCB";
 
         String vnp_TxnRef = Config.getRandomNumber(8);
-        String vnp_IpAddr = Config.getIpAddress(request);
+        String vnp_IpAddr = "127.0.0.1";
 
         String vnp_TmnCode = Config.vnp_TmnCode;
 
